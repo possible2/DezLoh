@@ -1,4 +1,3 @@
-
 {
   "name": "Dezloh — All-in-One Digital Toolkit",
   "short_name": "Dezloh",
@@ -28,6 +27,12 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
+    },
+    {
+      "src": "icon-monochrome-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "monochrome"
     }
   ]
 }
